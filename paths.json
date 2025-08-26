@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-one-lpb/:/",
-      "/content/citisignal-one-lpb/configuration:/.helix/config.json",
-      "/content/citisignal-one-lpb/metadata:/metadata.json",
-      "/content/citisignal-one-lpb/configs:/configs.json",
-      "/content/citisignal-one-lpb/configs-stage:/configs-stage.json",
-      "/content/citisignal-one-lpb/configs-dev:/configs-dev.json",
-      "/content/citisignal-one-lpb/redirects:/redirects.json",
-      "/content/citisignal-one-lpb/placeholders:/placeholders.json",
-      "/content/citisignal-one-lpb/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-one-lpb/enrichment/enrichment:/enrichment/enrichment.json",
-      "/content/dam/citisignal/images/products/:/images/products/"
+      "/content/dalvi/whirlpool-ucp/:/",
+      "/content/dalvi/whirlpool-ucp/configuration:/.helix/config.json",
+      "/content/dalvi/whirlpool-ucp/metadata:/metadata.json",
+      "/content/dalvi/whirlpool-ucp/configs:/configs.json",
+      "/content/dalvi/whirlpool-ucp/configs-stage:/configs-stage.json",
+      "/content/dalvi/whirlpool-ucp/configs-dev:/configs-dev.json",
+      "/content/dalvi/whirlpool-ucp/redirects:/redirects.json",
+      "/content/dalvi/whirlpool-ucp/placeholders:/placeholders.json",
+      "/content/dalvi/whirlpool-ucp/products/recommended-products:/products/recommended-products.json",
+      "/content/dalvi/whirlpool-ucp/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/dalvi/whirlpool-ucp/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-one-lpb",
+      "/content/dalvi/whirlpool-ucp",
       "/content/dam/citisignal/images/products/"
     ]
 }
